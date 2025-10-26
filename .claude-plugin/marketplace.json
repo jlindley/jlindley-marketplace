@@ -1,0 +1,13 @@
+{
+  "name": "jlindley-marketplace",
+  "owner": {
+    "name": "Jim Lindley"
+  },
+  "plugins": [
+    {
+      "name": "jlindley-skills",
+      "source": "./jlindley-skills",
+      "description": "Jim Lindley's custom skills for spike exploration, PRD facilitation, and Godot debugging"
+    }
+  ]
+}
