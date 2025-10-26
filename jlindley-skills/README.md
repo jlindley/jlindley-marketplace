@@ -7,15 +7,14 @@ official Superpowers marketplace.
 
 ```
 skills/
-  <category>/
-    <skill-name>/
-      SKILL.md
+  <skill-name>/
+    SKILL.md
 ```
 
-- Categories (e.g. `collaboration`, `debugging`) match the Superpowers repo at
-  `~/.config/superpowers/skills/skills/`.
 - Each skill lives in its own directory with a single `SKILL.md` file that
   contains the frontmatter and operating procedure.
+- Skills use a flat structure (no category subdirectories) to match Claude Code's
+  plugin skill discovery requirements.
 
 ## Installation
 
