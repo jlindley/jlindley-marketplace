@@ -6,7 +6,11 @@
   "plugins": [
     {
       "name": "jlindley-skills",
-      "source": "./jlindley-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jlindley/jlindley-marketplace.git",
+        "path": "jlindley-skills"
+      },
       "description": "Jim Lindley's custom skills for spike exploration, PRD facilitation, and Godot debugging"
     }
   ]
