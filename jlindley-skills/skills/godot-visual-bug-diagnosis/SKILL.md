@@ -1,5 +1,5 @@
 ---
-name: visual-bug-diagnosis
+name: godot-visual-bug-diagnosis
 description: Debug visual and spatial bugs in Godot games through user observation, Godot-specific diagnosis, and test-driven fixes
 when_to_use: when debugging visual or input issues in Godot where the user can observe the game but you cannot, when bugs involve rendering, positioning, animation, or coordinate systems, or when "what user sees" differs from expected behavior. For pure logic bugs use Systematic Debugging instead
 version: 1.0.0
