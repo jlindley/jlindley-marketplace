@@ -8,8 +8,7 @@
       "name": "jlindley-skills",
       "source": {
         "source": "url",
-        "url": "https://github.com/jlindley/jlindley-marketplace.git",
-        "path": "jlindley-skills"
+        "url": "https://github.com/jlindley/jlindley-skills.git"
       },
       "description": "Jim Lindley's custom skills for spike exploration, PRD facilitation, and Godot debugging"
     }
