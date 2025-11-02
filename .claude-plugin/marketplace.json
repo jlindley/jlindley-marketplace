@@ -10,7 +10,7 @@
         "source": "url",
         "url": "https://github.com/jlindley/jlindley-skills.git"
       },
-      "description": "Jim Lindley's custom skills for spike exploration, PRD facilitation, and Godot debugging"
+      "description": "Jim Lindley's custom skills, commands, and hooks for spike exploration, PRD facilitation, Godot debugging, and autonomous execution"
     }
   ]
 }
